@@ -1,10 +1,13 @@
-# Svelte + TS + Vite
+# Portfolio
+As a developer, I have quite a bit of projects published here and there, but no central place highlighting what I have actually worked on. So, I have finally decided to create a portfolio!
 
-This template should help get you started developing with Svelte and TypeScript in Vite.
+## Categories
+1. Pre-College Applications
+2. Published Apps
+3. UT Dallas Apps
+4. Machine Learning Apps
 
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+Previous roles from highschool to present
 
 ## Need an official Svelte framework?
 
